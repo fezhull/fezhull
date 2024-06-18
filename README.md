@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -82,7 +83,7 @@ I am a Mobile & Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 ### :writing_hand: Blog Posts :
 
-<!--
+
 **fezhull/fezhull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
